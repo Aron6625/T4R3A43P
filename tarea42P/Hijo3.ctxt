@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Hijo3
+comment1.params=ApellidoPaterno\ Colorcabello\ tipodesangre\ altura\ Peso
+comment1.target=Hijo3(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+numComments=2

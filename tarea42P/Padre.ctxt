@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Padre
+comment1.params=ApellidoPaterno\ Colorcabello\ tipodesangre
+comment1.target=Padre(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getApellidoPaterno()
+comment3.params=ApellidoPaterno
+comment3.target=void\ setApellidoPaterno(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getColorCabello()
+comment5.params=Colorcabello
+comment5.target=void\ setColorcabello(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ gettipodesangrel()
+comment7.params=tipodesangre
+comment7.target=void\ settipodesangre(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ mostrardatos()
+numComments=9
